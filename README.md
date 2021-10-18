@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Tarun [website] 👋
 
-### Hi there 👋
 
-- 🔭 Currently working as a freelance developer.
-- 🌱 I’m currently pursuing Bachelor's degree in Computer Engineering (Third Year)
-- 📖 Current Interest: Hooked on React, Exploring Open Source
+- 🔭 I am a Full Stack Developer.
+- 🌱 I’m currently pursuing Bachelor's degree in Information Technology (Final Year)
 
+
+### Connect with me:
+
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+<br />
 
 <details>
   <summary>My github stats</summary>
@@ -19,3 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun200999&count_private=true&theme=react&hide_border=1" />
 </details>
 
+
+[website]: https://tarun-c854b.web.app/
+[linkedin]: https://www.linkedin.com/in/tarun-459a68171/
