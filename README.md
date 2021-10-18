@@ -10,12 +10,12 @@
 <details>
   <summary>My github stats</summary>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=anujjoshi63&count_private=true&theme=react&hide_border=0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tarun200999&count_private=true&theme=react&hide_border=0" />
 </details>
 
 <details>
   <summary>My most used languages</summary>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujjoshi63&count_private=true&theme=react&hide_border=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun200999&count_private=true&theme=react&hide_border=1" />
 </details>
 
