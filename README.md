@@ -15,11 +15,9 @@
 </br>
 </br>
 
-<details>
-  <summary>My github stats</summary>
-  
+
   <img src="https://github-readme-stats.vercel.app/api?username=tarun200999&count_private=true&theme=react&hide_border=0" />
-</details>
+
 
 <details>
   <summary>My most used languages</summary>
