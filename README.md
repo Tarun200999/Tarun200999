@@ -1,4 +1,4 @@
-### Hi there, I'm Tarun [website] 👋
+### Hi there, I'm [Tarun] 👋
 
 
 - 🔭 I am a Full Stack Developer.
@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Tarun]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -26,5 +26,5 @@
 </details>
 
 
-[website]: https://tarun-c854b.web.app/
+[Tarun]: https://tarun-c854b.web.app/
 [linkedin]: https://www.linkedin.com/in/tarun-459a68171/
