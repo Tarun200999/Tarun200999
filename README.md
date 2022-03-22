@@ -30,6 +30,10 @@
 <a href="mailto:tk4977163@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=TARUN style="margin-bottom: 5px;" />
 </a>
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                     
+![Tarun's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tarun200999&hide_border=true&theme=redical)
 </div>  
 
 ![Profile views](https://gpvc.arturio.dev/Tarun200999)
