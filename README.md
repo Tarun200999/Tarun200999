@@ -33,7 +33,7 @@
                                                                                                                                         
                                                                                                                                         
                                                                                                                                      
-![Tarun's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tarun200999&hide_border=true&theme=redical)
+
 </div>  
 
 ![Profile views](https://gpvc.arturio.dev/Tarun200999)
