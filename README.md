@@ -1,8 +1,8 @@
 ### Hi there, I'm [Tarun] 👋
 
 
-- 🔭 I am a Full Stack Developer.
-- 🌱 I’m currently pursuing Bachelor's degree in Information Technology (Final Year)
+> I am a Full Stack Developer.
+> I’m currently pursuing Bachelor's degree in Information Technology (Final Year)
 
 <img src="https://github-readme-stats.vercel.app/api?username=tarun200999&show_icons=true&theme=tokyonight"/>
 
